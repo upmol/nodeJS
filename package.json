@@ -1,0 +1,24 @@
+{
+  "name": "node_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "prime": "node prime.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenisDorogov/Node.JS-Course.git"
+  },
+  "author": "Dorogov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DenisDorogov/Node.JS-Course/issues"
+  },
+  "homepage": "https://github.com/DenisDorogov/Node.JS-Course#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
